@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardDeck">
+        <attr name="xDisplacement" format="integer"/>
+        <attr name="yDisplacement" format="integer"/>
+        <attr name="zDisplacement" format="integer"/>
+        <attr name="maxCardsNum" format="integer" />
+
+
+    </declare-styleable>
+
+</resources>
